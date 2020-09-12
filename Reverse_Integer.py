@@ -23,7 +23,7 @@ class Reverse(object):
             result = result * 10 + a
         return result
 
-number = 123
+number = 2772
 class_output = Reverse()
 print(class_output.rev(number))
 
